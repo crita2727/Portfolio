@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This project is a minimalist, clean, a
 
 ## 🖥️ Live Preview
 
-\[Coming Soon] — Hosted link will be added here.
+[[Click Here](https://lively-toffee-03fc0a.netlify.app/)]
 
 ---
 
