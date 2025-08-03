@@ -16,7 +16,9 @@ Welcome to my personal portfolio website! This project is a minimalist, clean, a
 ├── styles.css
 ├── assets/
 │   └── your-photo.jpg
+├── CV_Res.pdf
 └── README.md
+
 ```
 
 ---
