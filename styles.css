@@ -214,6 +214,27 @@ section {
     margin-bottom: 2rem;
 }
 
+.hero-text .btn {
+    display: inline-block;
+    background: var(--accent);
+    color: #fff;
+    padding: 0.7em 2em;
+    border-radius: 8px;
+    font-size: 1rem;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    text-decoration: none;
+    box-shadow: 0 2px 8px rgba(200, 144, 167, 0.08);
+    transition: background 0.2s, transform 0.2s;
+    margin-top: 1.5rem;
+}
+
+.hero-text .btn:hover {
+    background: var(--neutral);
+    color: #fff;
+    transform: translateY(-3px) scale(1.04);
+}
+
 .hero-image {
     flex: 1;
     display: flex;
@@ -252,7 +273,7 @@ section {
 /* Skills Section */
 .skills ul {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    grid-template-columns: repeat(4, 1fr);
     gap: 2rem;
     margin-top: 3rem;
     list-style: none;
