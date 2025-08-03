@@ -111,12 +111,6 @@ This portfolio supports two visual themes: **Light (White)** and **Dark (Black)*
 
 ---
 
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
 ## 🙏 Acknowledgments
 
 * Inspired by the principle of **"Less is More"**.
